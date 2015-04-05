@@ -1,0 +1,14 @@
+section {
+    padding: 15px;
+}
+.first {
+    position: relative;
+    height: 500px;
+    background: url('../img/1386160503.jpg');
+    color: #f1f1f1;
+}
+.second {
+    background: url('../img/luxfon.com_4664.jpg');
+    height: 500px;
+    max-width: 100%;
+}
